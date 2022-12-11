@@ -53,8 +53,8 @@ function multiply(a, b){
 ------------------------------
 
 ### Sertificates
-1. ![](sert1.png)
-2. ![](sert2.png)
+1. ![](https://drive.google.com/file/d/1xlzcsG3K7RZ3UfJdx2NZlIkkG0OfvLRd/view?usp=sharing)
+2. ![](https://drive.google.com/file/d/1ek7MkPGISCqcGv6BoZPM6ZJ1t2sFRTKZ/view?usp=sharing)
 
 ------------------------------
 
