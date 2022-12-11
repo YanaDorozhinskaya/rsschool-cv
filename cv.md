@@ -15,6 +15,9 @@
 
 ###About me
 
+Learn easily, I have an active life station.
+Due to his perseverance and scrupulousness, the ability to work with large amounts of data.
+Participated in the development and testing of software for HR and Training department
 
 ------------------------------
 
@@ -37,18 +40,25 @@ function multiply(a, b){
 
 ------------------------------
 
-#Education
+###Education
 
-*
+* Incomplete higher education: Business Informatics 2020-2022
 
-#Courses
+###Courses
 
 * RS School Course "JavaScript/Front-end. Stage 0" (in progress)
-* HTML and CSS Course
+* HTML and CSS Course [https://stepik.org/course/52164]
+* Excel and GoogleDocs from Basic to Pro 
 
 ------------------------------
 
-#Languages
+###Sertificates
+1. ![C:\Users\regmo\Desktop\rsschool-cv\sert1.png]
+2. ![C:\Users\regmo\Desktop\rsschool-cv\sert2.png]
+
+------------------------------
+
+###Languages
 
 * Russian - Native
 * English - Intermediate
