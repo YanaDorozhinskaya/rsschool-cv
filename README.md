@@ -1,2 +1,1 @@
-# rsschool-cv
-https://YanaDorozhinskaya.github.io/rsschool-cv/cv
+https://yanadorozhinskaya.github.io/rsschool-cv
