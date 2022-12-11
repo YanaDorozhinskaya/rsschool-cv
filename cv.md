@@ -1,11 +1,11 @@
-#IANA DOROZHINSKAYA
+# IANA DOROZHINSKAYA
 *****************************
-###Junior Fontend Developer
+### Junior Fontend Developer
 -----------------------------
 
 
 
-###Contact Information
+### Contact Information
 
 **Phone:** +7 914 0657256
 **E-mail:** Dorozhinskaya-YA@yandex.ru
@@ -13,7 +13,7 @@
 
 ------------------------------
 
-###About me
+### About me
 
 Learn easily, I have an active life station.
 Due to his perseverance and scrupulousness, the ability to work with large amounts of data.
@@ -21,7 +21,7 @@ Participated in the development and testing of software for HR and Training depa
 
 ------------------------------
 
-###Skills
+### Skills
 * HTML
 * CSS
 * Git, GitHub
@@ -31,7 +31,7 @@ Participated in the development and testing of software for HR and Training depa
 
 ------------------------------
 
-###Code Example
+### Code Example
 ```
 function multiply(a, b){
   return  a * b;
@@ -40,11 +40,11 @@ function multiply(a, b){
 
 ------------------------------
 
-###Education
+### Education
 
 * Incomplete higher education: Business Informatics 2020-2022
 
-###Courses
+### Courses
 
 * RS School Course "JavaScript/Front-end. Stage 0" (in progress)
 * HTML and CSS Course [https://stepik.org/course/52164]
@@ -52,13 +52,13 @@ function multiply(a, b){
 
 ------------------------------
 
-###Sertificates
+### Sertificates
 1. ![C:\Users\regmo\Desktop\rsschool-cv\sert1.png]
 2. ![C:\Users\regmo\Desktop\rsschool-cv\sert2.png]
 
 ------------------------------
 
-###Languages
+### Languages
 
 * Russian - Native
 * English - Intermediate
