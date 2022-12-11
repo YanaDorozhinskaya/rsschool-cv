@@ -53,8 +53,8 @@ function multiply(a, b){
 ------------------------------
 
 ### Sertificates
-1. ![](\rsschool-cv\sert1.png)
-2. ![](\rsschool-cv\sert2.png)
+1. ![](sert1.png)
+2. ![](sert2.png)
 
 ------------------------------
 
