@@ -1,4 +1,4 @@
-# IANA DOROZHINSKAYA
+# IANA DOROZHINSKAIA
 *****************************
 ### Junior Fontend Developer
 -----------------------------
